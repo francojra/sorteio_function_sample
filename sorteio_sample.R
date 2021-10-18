@@ -11,3 +11,8 @@ y <- c("João", "Maria", "Alice", "Eduardo")
 
 # Sorteio
 sample(x, 3, replace = T) # Sortear 3 números com repetição
+
+sample(x, 5, replace = T) # Sortear 5 números com repetição
+### Observe que alguns números foram repetidos
+
+sample(x, 4, replace = F) # Sortear 4 números sem repetição
