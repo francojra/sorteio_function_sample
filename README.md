@@ -1,10 +1,10 @@
 # sorteios usando a função sample
 
-### Sorteio de números do conjunto x
+## Sorteio de números do conjunto x
 
-### Sorteio de caracteres do conjunto y
+## Sorteio de caracteres do conjunto y
 
-# Estrutura da função
+## Estrutura da função
 
 ### sample(x, 5, replace = T)
 
